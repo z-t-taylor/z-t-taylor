@@ -1,5 +1,3 @@
-<br>
-
 ## Hi, I'm Zoe 👋
 
 - 🔭 I’m currently strengthening my React skills 💪 and learning the Python basics.
