@@ -1,6 +1,6 @@
 ## Hi, I'm Zoe 👋
 
-- 🔭 I’m currently strengthening my React skills 💪 and learning the Python basics.
+- 🔭 I’m currently strengthening my React skills 💪 and learning some Python & Java basics.
 - 🌱 Right now, I’m working on my portfolio site (still under wraps, but I'll be sharing it soon!).
 - ✨ My next goal is to create a project using TypeScript.
 - 🤝 I’m open to collaborate on open-source projects, especially those related to ethical tech. 
